@@ -1,10 +1,8 @@
 # Evaluating COMPAS Criminal Recidivism Prediction Model
 
----
-
 Maxwell Jayne
 
-[COMPAS Evaluation](https://github.com/maxjayne-1860279/COMPAS-Evaluation)
+[COMPAS Evaluation](https://maxjayne-1860279.github.io/COMPAS-Evaluation/Evaluating-COMPAS-Algorithm.html)
 
 &emsp;The Correctional Offender Management Profiling for Alternative Sanctions (COMPAS) algorithm is used to assess defendants for recidivism risk: the risk a defendant may perform another crime. The COMPAS model is a commercial risk aseessment tool that was developed and is owned by Equivant (formerly Northpointe) and has been used in US courts and during pretrial detention with a recorded accuracy of 65% in recidivism prediction. COMPAS or similar risk assessment models are used in 46 states across the US and many, similar to COMPAS, have proprietary algorithms, meaning the general public cannot learn how these risk recidivism risk scores are calculated. The COMPAS test itself is made up of 137 questions, and race is not asked about.
 
